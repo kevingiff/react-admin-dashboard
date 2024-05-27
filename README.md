@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Data Grid
+
+mui.com/x/react-data-grid/
+import { DataGrid } from '@mui/x-data-grid';
+npm i @fullcalendar/react @fullcalendar/interaction
+
+### example data:
+
+npm install @nivo/bar
+nivo.rocks/bar
+
+### Github starting example
+
+https://github.com/ed-roh/react-admin-dashboard/tree/master/src
