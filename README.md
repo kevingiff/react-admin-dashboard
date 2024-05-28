@@ -1,6 +1,7 @@
 ### Visual Preview
 
 ![Watch the video](https://youtu.be/zzgSth7nfjc)
+https://www.youtube.com/watch?v=zzgSth7nfjc
 
 
 
